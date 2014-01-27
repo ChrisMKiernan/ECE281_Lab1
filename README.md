@@ -16,3 +16,6 @@ A | B | C | X | Y | Z
 ## Results
 The testbench lined up perfectly with the truth table I created for 2's compliment.
 I also checked the table against itself: if I did the math right, the table should simply reverse itself at -4.
+
+## Demo
+In-class demo of 3-bit lab completed and checked on 23 Jan
